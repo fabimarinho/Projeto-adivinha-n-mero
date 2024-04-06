@@ -1,4 +1,4 @@
-# Projeto-adivinha-n-mero
+# Projeto-adivinha-numero
 Este código implementa um jogo simples de adivinhação de números.
 Primeiro, importe o módulo randompara gerar um número secreto aleatório entre 1 e 100.
 Inicialize-se uma variável tentativascomo 0 para contar o número de tentativas do jogador.
